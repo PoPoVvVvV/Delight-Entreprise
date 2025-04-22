@@ -14,7 +14,7 @@ const validCredentials = [
 // <<< REMPLACEZ CECI PAR L'URL DE VOTRE WEBHOOK DISCORD >>>
 const discordWebhookUrl = 'https://discord.com/api/webhooks/1357643486480040000/4bbPWgI9HEyvaAJtCWpa23MOolJQg1TlzWrB-Bp-fU9WxlnCe6fA9gLPSiKCP1HemYbz';
 // ****************************************
-const googleSheetsUrl = 'https://script.google.com/macros/s/AKfycbycEBCzB1TTT6oAa4wXD6N8vR1fUxS58U_wFA9H_YtO6jdDz2nr-YpW14p7S9FqGqP-jg/exec'; // <<< REMPLACEZ CECI PAR VOTRE URL Apps Script
+const googleSheetsUrl = 'https://script.google.com/macros/s/AKfycbxVoMD8mBwGt8gqUw4Yoky8ShMRoPjdymDgSLaulM9xitBgauTNTCr6psdtUeRm4h6hOA/exec'; // <<< REMPLACEZ CECI PAR VOTRE URL Apps Script
 
 
 const loginScreen = document.getElementById('login-screen');
